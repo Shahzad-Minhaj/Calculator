@@ -18,9 +18,6 @@ This is a simple calculator web application created using HTML, CSS, and JavaScr
 3. Press the "C" button to clear the input.
 4. Press the "=" button to calculate the result.
 
-## Screenshots
-
-![Calculator](screenshots/calculator.png)
 
 ## How to Contribute
 
@@ -31,3 +28,7 @@ If you'd like to contribute to the project, you can follow these steps:
 3. Make your changes and commit them: `git commit -m 'Add new feature'`.
 4. Push the changes to your fork: `git push origin feature/new-feature`.
 5. Create a pull request to the main repository.
+
+To access the file on the Website please visit [Calculator App]()
+
+Created By Shahzad Minhaj from SMIT, Peshawar.
